@@ -1,0 +1,1 @@
+$('body').append('<section class="clearfix post_footer">@ Nulled by TRC4 Albania </section>');
